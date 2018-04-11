@@ -38,13 +38,9 @@ public class Utils {
 	 * 
 	 *         e.g. http://www.bbc.co.uk/news  
 	 *         
-	 *         IMPORTANT:
 	 *         
-	 *         Please DO NOT use any University web page 
-	 *         for testing as this may triggered DDoS attack 
-	 *         alert at IT Service. Any sample URL provided 
-	 *         here is purely for information purpose only.
-	 *                    
+	 *         
+	 *                   
 	 * @return the HTML source code of the given web page
 	 *          
 	 */
