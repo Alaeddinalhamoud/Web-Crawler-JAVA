@@ -9,6 +9,7 @@ KeyWords
 Number of visited pages
 nubmber of nonvisited pages..
 https://jsoup.org
-http://www.a-hamoud.com/Home/index
+
+http://www.a-hamoud.com/Post/details/2137-jsoup-with-web-crawler
 
 check the code and lean more :P
